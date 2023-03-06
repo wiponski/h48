@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="vendor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vendor/freemarker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/gson-2.8.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
